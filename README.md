@@ -2,7 +2,7 @@ Hi! Ciao! Bok!
 I’m <b>@eparks-dsg</b> 
 
 - Employed with DSG:
-  - Interned Summer 2019
+  - Internship Summer 2019
   - Full-Time since July 2020
 - Currently working for:
   - JC Taylor Project
