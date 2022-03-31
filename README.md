@@ -4,9 +4,6 @@ I’m <b>@eparks-dsg</b>
 - Employed with DSG:
   - Internship Summer 2019
   - Full-Time since July 2020
-- Currently working for:
-  - JC Taylor Project
-  - WoMBA (US) Project
 
 Please contact me at eparks@dunnsolutions.com
 
