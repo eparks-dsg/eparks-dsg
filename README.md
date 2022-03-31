@@ -1,9 +1,9 @@
 Hi! Ciao! Bok!  
 I’m <b>@eparks-dsg</b> 
 
-- Employed with DSG:
-  - Internship Summer 2019
-  - Full-Time since July 2020
+Employed with DSG:
+- Internship Summer 2019
+- Full-Time since July 2020
 
 Please contact me at eparks@dunnsolutions.com
 
