@@ -5,7 +5,7 @@ Employed with DSG:
 - Internship Summer 2019
 - Full-Time since July 2020
 
-Please contact me at eparks@dunnsolutions.com
+Please contact me at eparks@kaartech.com
 
 <!---
 eparks-dsg/eparks-dsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
